@@ -1,0 +1,5 @@
+vocab_size: 15000
+d_h: 1024
+head: 12
+d_ff: 4096
+n_layer: 24

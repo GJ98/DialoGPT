@@ -1,0 +1,3 @@
+batch_size: 200
+max_len: 250
+rate: 0.1

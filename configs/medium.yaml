@@ -1,0 +1,4 @@
+defaults:
+  - model: medium
+  - processing: default
+  - training: default
